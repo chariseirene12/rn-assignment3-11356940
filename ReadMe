@@ -1,0 +1,15 @@
+Task Management App
+Overview
+This is a React Native application designed to help users manage their tasks. The app features a friendly user interface for viewing and searching through tasks, organized into various categories.
+
+Features
+Task Overview: Displays a greeting and the number of tasks for the day.
+Profile Image: Includes a profile picture.
+Search Bar: Allows users to search for tasks.
+Categories: Lists task categories with descriptions and images.
+Ongoing Tasks: Shows a list of ongoing tasks.
+Custom Components: Utilizes custom components throughout the application.
+![Screenshots](assets/screenshots/ss1.jpg)
+![Screenshots](assets/screenshots/ss2.jpg)
+![Screenshots](assets/screenshots/ss3.jpg)
+![Screenshots](assets/screenshots/ss4.jpg)
